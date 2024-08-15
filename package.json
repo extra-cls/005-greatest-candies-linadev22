@@ -1,0 +1,12 @@
+{
+  "name": "005-greatest-candies",
+  "version": "1.0.0",
+  "description": "Write a function to solve the problem below:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "natt",
+  "license": "ISC",
+  "type": "module"
+}
